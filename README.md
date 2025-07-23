@@ -1,4 +1,4 @@
-<h2 align="center">Hello World!!🙋🏻welcome to my profile</h2>
+<h2 align="center">Hello World! 🙋🏻welcome to my profile</h2>
 
 ###
 
@@ -15,16 +15,6 @@
 ###
 
 <h4 align="left"></h4>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iafelix14/Iafelix14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iafelix14/Iafelix14/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iafelix14/Iafelix14/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -63,6 +53,10 @@
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="38" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Iafelix14/Iafelix14/output/snake.svg" alt="Snake animation" />
 
 ###
 
