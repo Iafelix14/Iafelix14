@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Iafelix14/Iafelix14/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <h4 align="center">LET'S TALK🤝🏻</h4>
